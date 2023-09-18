@@ -27,7 +27,7 @@ const Hero = () => {
 
       <ComputersCanvas />
 
-      <div
+      {/* <div
         className="absolute xs:button-10 bottom-32 w-full flex justify-center items-center"
         style={{
           // marginTop: "5rem",
@@ -48,7 +48,7 @@ const Hero = () => {
             />
           </div>
         </a>
-      </div>
+      </div> */}
     </section>
   );
 };
